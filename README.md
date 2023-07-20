@@ -24,5 +24,3 @@ une fois votre zip téléchargé :
 
 
 ### Firefox :
-
-Liens de téléchargement : https://addons.mozilla.org/firefox/downloads/file/4141255/a430eb1bc14444b7a7b8-1.1.0.xpi
